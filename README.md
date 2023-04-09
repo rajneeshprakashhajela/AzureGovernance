@@ -1,6 +1,8 @@
 
 <h1> Azure BluePrint </h1>
 ![image](https://user-images.githubusercontent.com/43515480/230769851-5a8d59e4-4216-4ad7-b955-5480f84e7747.png)
+![image](https://user-images.githubusercontent.com/43515480/230769969-4ea488ed-fa9f-4080-9024-9ce2fd5d6d80.png)
+![image](https://user-images.githubusercontent.com/43515480/230770499-e07386cd-19a1-4d83-9c6b-c44415d82258.png)
 
 Guide, Pattern, design 
 It is a package of azure component - (Resource Group, ARM Template, Policy assignment, Role assignment)
@@ -22,3 +24,7 @@ if we want to change in blueprint then unassign first then it will allow
    Using RBAC, You can restrict who has access to locks
 <h1> Resource lock </h1>
 <h1> Service trusted portal </h1>
+
+Migration
+
+![image](https://user-images.githubusercontent.com/43515480/230771620-7d151eea-2a2e-4e99-b54b-0b5c5aaf9dc5.png)
